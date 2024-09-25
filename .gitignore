@@ -1,0 +1,15 @@
+# dependencies
+
+# /Task1/node_modules
+# /Task2/node_modules
+# /Task3/react-redux-posts/node_modules
+/*/node_modules
+/*/*/node_modules
+
+# testing
+# /Task1/coverage
+# /Task2/coverage
+/*/coverage
+
+# production
+/build
